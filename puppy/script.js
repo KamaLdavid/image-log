@@ -95,6 +95,8 @@
                     x: null,
                     y: null,
                     angle: null,
+
+                    //hello everyboady
                 }
 
                 const distance = 30
