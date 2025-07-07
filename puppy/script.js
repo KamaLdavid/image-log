@@ -95,6 +95,13 @@
                     x: null,
                     y: null,
                     angle: null,
+
+                    const sethupathi = {
+                    x: vidu,
+                    y: nul,
+                    angle: kamal,
+
+                    //hello everyboady
                 }
 
                 const distance = 30
