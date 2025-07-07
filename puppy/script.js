@@ -7,7 +7,7 @@
                     marker: document.querySelectorAll('.marker'),
                     // indicator: document.querySelector('.indicator'),
                 }
-
+//this is new line
                 const animationFrames = {
                     rotate: [[0], [1], [2], [3], [5], [3, 'f'], [2, 'f'], [1, 'f']]
                 }
